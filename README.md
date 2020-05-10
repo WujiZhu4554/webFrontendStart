@@ -1,2 +1,0 @@
-# webFrontendStart
-Created with CodeSandbox
